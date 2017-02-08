@@ -10,3 +10,5 @@ jquery<BR/>
 JPA for persistance<BR/>
 MySQL for database<BR/>
 
+http://www.ninjaframework.org/
+
