@@ -12,3 +12,6 @@ MySQL for database<BR/>
 
 http://www.ninjaframework.org/
 
+Ninja is a full stack web framework for Java.
+Rock solid, fast, and super productive.
+
