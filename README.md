@@ -17,6 +17,6 @@ Ninja is a full stack web framework for Java.
 Rock solid, fast, and super productive.
 
 
-##########################
+#########################
 MAVEN GOAL -->jetty:run
-##########################
+
