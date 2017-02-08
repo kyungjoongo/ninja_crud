@@ -9,9 +9,14 @@ java-  닌자 프레임웍 씨알유디<BR/>
 jquery<BR/>
 JPA for persistance<BR/>
 MySQL for database<BR/>
+JETTY WEB SERVER
 
 http://www.ninjaframework.org/
 
 Ninja is a full stack web framework for Java.
 Rock solid, fast, and super productive.
 
+
+##########################
+MAVEN GOAL -->jetty:run
+##########################
