@@ -1,8 +1,11 @@
 # CRUD-operation-with-Ninja-Framework
 Create, Update, Delete and List using Ninja Framework
 
-This is a simple application with CRUD operation which I have done with Ninja Framework.
-Validation is done in client side as well as server side.
-Bootstrap 3 is used for design.
+  심플 CRUD ON 닌자 프레임웍
+
+
+java-  닌자 프레임웍 씨알유디
+부트스트랩3
+jquery
 JPA for persistance
 MySQL for database
