@@ -1,19 +1,19 @@
 # CRUD-operation-with-Ninja-Framework
 Create, Update, Delete and List using Ninja Framework
 
-Simplet CRUD ON NINJA F.W
+SIMPLET CRUD ON NINJA F.W
 
 JAVA BASED
-bootstrap 3<BR/>
-jquery<BR/>
-JPA for persistance<BR/>
-MySQL for database<BR/>
+BOOTSTRAP 3<BR/>
+JQUERY<BR/>
+JPA FOR PERSISTANCE<BR/>
+MYSQL FOR DATABASE<BR/>
 
-http://www.ninjaframework.org/
+HTTP://WWW.NINJAFRAMEWORK.ORG/
 
-Ninja is a full stack web framework for Java.
-Rock solid, fast, and super productive.
+NINJA IS A FULL STACK WEB FRAMEWORK FOR JAVA.
+ROCK SOLID, FAST, AND SUPER PRODUCTIVE.
 
 
-메이븐 내장  jetty server로 웹어플리케이션 실행 
-MAVEN GOAL -->jetty:run
+메이븐 내장  JETTY SERVER로 웹어플리케이션 실행 
+MAVEN GOAL -->JETTY:RUN
